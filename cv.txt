@@ -1,0 +1,37 @@
+Shivam Soni
+Radha Puram estate, Mathura
+Uttar Pradesh
+shivamsoni8445@gmail.com
++919528300525
+
+
+# Education
+BCA Honours 
+GLA University (Mathura, Uttar Pradesh) 
+2024
+
+
+# Skills
+Web Developer
+HTML
+CSS
+JavaScript
+Nodejs
+React.js
+SQL
+Python
+Java
+C Language
+
+
+# Projects
+Food Ordering Site
+By using - HTML, CSS and JavaScript
+Full Stack Developer
+
+
+Tic Tac Toe Game
+By using - HTML, CSS and JavaScript
+
+#Languages
+English
